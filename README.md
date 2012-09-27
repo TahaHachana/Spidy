@@ -4,12 +4,17 @@ Spidy
 About
 -----
 
-Asynchronous agent based Web crawler.
+Asynchronous agent based Web crawler. An online demo is available [here](http://websharperdemo.apphb.com/Crawler).
 
 NuGet
 -----
 
 	PM> Install-Package Spidy
+
+Usage
+-----
+
+http://fsharp-code.blogspot.com/2012/09/fsharp-web-crawling-component.html
 
 MIT License
 -----------
